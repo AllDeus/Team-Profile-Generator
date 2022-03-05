@@ -13,6 +13,7 @@ https://drive.google.com/file/d/1WXwcJgwEXaIUNMGhSoEOedxSG4VNnHFY/view
 ![image](https://user-images.githubusercontent.com/87239985/156861552-1cd0e40d-cd9c-4957-b9af-34b567c7ce42.png)
 
 
+In the terminal type Node index.js to begin 
 
 
 
